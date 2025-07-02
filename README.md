@@ -1,7 +1,8 @@
 <!-- ========== BANNER ========== -->
 <p align="center">
-  <img src="https://i.ibb.co/4g2TzFx/treecorestudio-github-banner.png" alt="Banner de Treecore Studio">
+  <img src="https://raw.githubusercontent.com/TreecoreStudio/treecorestudio/main/banner-treecorestudio.png" alt="Banner de Treecore Studio">
 </p>
+
 
 <!-- ========== ENCABEZADO ========== -->
 <h1 align="center">
