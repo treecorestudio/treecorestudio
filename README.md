@@ -23,7 +23,7 @@
 
 En Treecore Studio creamos sitios web, apps híbridas y soluciones de automatización para negocios. Somos desarrolladores freelance especializados en experiencias digitales modernas, personalizadas y listas para crecer contigo. Trabajamos desde Madrid con clientes de toda España.
 
-- 📅 Fundado en 2025 por Pablo Sevillano y Ouiam Momouchi
+- 📅 Fundado en 2025 por Pablo Sevillano Aparicio & Ouiam Mommouhi
 - ✅ Packs 100% funcionales para negocios, pymes y emprendedores
 - 🌍 Proyectos reales en marcha (portafolios, reservas, ecommerce...)
 - ✨ Webs modernas con animaciones, SEO y diseño adaptado a 2025
@@ -60,7 +60,7 @@ En Treecore Studio creamos sitios web, apps híbridas y soluciones de automatiza
 
 ---
 
-## 🚀 Nuestros valores
+## 💎 Nuestros valores
 
 ```javascript
 const treecore = {
