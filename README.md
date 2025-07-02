@@ -1,6 +1,6 @@
 <!-- ========== BANNER ========== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TreecoreStudio/treecorestudio/main/banner-treecorestudio.png" alt="Banner de Treecore Studio">
+  <img src="https://raw.githubusercontent.com/TreecoreStudio/treecorestudio/main/bannerTreeCoreStudio.png" alt="Banner de Treecore Studio">
 </p>
 
 
