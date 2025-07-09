@@ -93,7 +93,7 @@ Esta cuenta es el centro oficial de desarrollo, proyectos y comunidad de Treecor
   <a href="https://www.instagram.com/treecorestudio" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="26" alt="Instagram"/> <strong>Instagram</strong>
   </a> •
-  <a href="https://www.facebook.com/treecorestudio" target="_blank">
+  <a href="https://www.facebook.com/treecorestudio.es" target="_blank">
     <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="26" alt="Facebook"/> <strong>Facebook</strong>
   </a> •
   <a href="https://wa.me/34916826879" target="_blank">
@@ -102,7 +102,7 @@ Esta cuenta es el centro oficial de desarrollo, proyectos y comunidad de Treecor
   <a href="mailto:studio@treecorestudio.es" target="_blank">
     <img src="https://img.icons8.com/fluency/48/mail.png" width="26" alt="Email"/> <strong>Email</strong>
   </a> •
-  <a href="https://www.linkedin.com/company/treecorestudio" target="_blank">
+  <a href="https://www.linkedin.com/company/treecore-studio/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="26" alt="LinkedIn"/> <strong>LinkedIn</strong>
   </a> •
   <a href="https://github.com/treecorestudio" target="_blank">
